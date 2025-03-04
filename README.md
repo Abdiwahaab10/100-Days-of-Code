@@ -79,4 +79,4 @@ If you're also doing the **100 Days of Code**, feel free to fork this repository
 
 ---
 
-💡 **Follow my journey:** [GitHub Profile](https://github.com/YourGitHubUsername) 🚀
+💡 **Follow my journey:** [GitHub Profile](https://github.com/Abdiwahaab10) 🚀
